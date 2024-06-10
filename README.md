@@ -31,5 +31,3 @@ Hello, I'm Brandon. I am an aspiring Data Analyst with experience using Excel, S
 ## 🤝 Connect
 * LinkedIn: https://www.linkedin.com/in/b-ayala/
 * Tableau Public: https://public.tableau.com/app/profile/brandon.ayala/vizzes
-
-📄📦📝✅📈🎇💻🖥️💼📁📋☀️💡
