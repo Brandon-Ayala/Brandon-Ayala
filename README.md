@@ -1,3 +1,5 @@
+![Brandon Ayala Portfolio Banner](https://i.ibb.co/cQjFg1R/Portfolio-Banner.jpg)
+
 # 👋 Introductions
 
 Hello, I'm Brandon. I am an aspiring Data Analyst with experience using Excel, SQL, Tableau, and Power BI. My work reflects a practical approach to extracting meaningful insights, enhancing decision-making processes, and driving business growth. I created this portfolio to showcase my approach to cleaning, querying, modeling, and reporting data.
