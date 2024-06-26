@@ -2,7 +2,7 @@
 
 # 👋 Introductions
 
-Hello, I'm Brandon. I am an aspiring Data Analyst with experience using Excel, SQL, Tableau, and Power BI. My work reflects a practical approach to extracting meaningful insights, enhancing decision-making processes, and driving business growth. I created this portfolio to showcase my approach to cleaning, querying, modeling, and reporting data.
+Hello, I'm Brandon. I am a Data Analyst with experience using Excel, SQL, Tableau, and Power BI. My work reflects a practical approach to extracting meaningful insights, enhancing decision-making processes, and driving business growth. I created this portfolio to showcase my approach to cleaning, querying, modeling, and reporting data.
 
 ## ⭐ Education & Certifications
 * Bachelor of Science in Culinary and Hospitality Management
